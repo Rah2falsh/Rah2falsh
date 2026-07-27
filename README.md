@@ -1,37 +1,42 @@
-# Hi there, I'm Eng. Rahaf! 👋 
-###  Software Engineer | Front-End Developer & UI/UX Designer
+# Hi there, I'm Eng. Rahaf
 
-Welcome to my GitHub profile! I am a versatile Software Engineer driven by the passion to turn complex ideas into seamless digital realities. I bridge the gap between robust backend logic, fluid interactive frontends, and intuitive user experiences.
+### Software Engineer | Systems Integration & Front-End Development
 
----
-
-###  Core Expertise
-
-* **Frontend & UI/UX Design:** Crafting modern, accessible, and high-performance user interfaces using **React.js**, **Vite**, **Tailwind CSS**, and modern web standards (**HTML5 / CSS3**). Fully capable of translating concepts into high-fidelity prototypes using **Figma**.
-* **Backend & Cloud Architecture:** Designing scalable database architectures and server-side logic utilizing **Firebase**, **PHP (MVC Architecture)**, and **Python**.
-* **Project Management & Agile Workflows:** Experienced in steering software workflows, tracking development cycles, and managing tasks efficiently using industry-standard platforms like **Azure DevOps** and **Trello**.
+Welcome to my GitHub profile. I'm a Software Engineer focused on building scalable technical solutions — from backend logic and system integration to responsive, high-quality front-end applications. I bring a well-rounded product perspective, with additional experience in UI/UX design.
 
 ---
 
-###  Tech Stack & Toolbelt
+### Core Expertise
+
+* **Software Engineering & Integration:** Designing and integrating scalable web applications through REST APIs, connecting front-end interfaces with backend services using **Firebase**, **PHP (MVC Architecture)**, and **Python**.
+* **Front-End Development:** Building modern, accessible, high-performance interfaces using **React.js**, **Vite**, **Tailwind CSS**, and standard web technologies (**HTML5 / CSS3**).
+* **Project Management & Agile Workflows:** Managing development cycles and coordinating tasks using **Azure DevOps** and **Trello** within Agile/Scrum environments.
+* **UI/UX Design:** Translating requirements into high-fidelity prototypes using **Figma**, supporting a complete understanding of the product lifecycle.
+
+---
+
+### Tech Stack & Toolbelt
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Frontend & Design** | React.js, Tailwind CSS, HTML5, CSS3, Figma |
 | **Backend & Databases** | Firebase, Firestore, PHP (MVC), Python |
+| **Frontend Development** | React.js, Tailwind CSS, HTML5, CSS3 |
+| **Design** | Figma |
 | **Project Management** | Azure DevOps, Trello, Agile Methodologies |
 | **DevOps & Workspace** | Git, GitHub, VS Code, macOS Terminal |
 
 ---
 
-###  Highlighted Works
-*  **SkillUp Platform:** A dedicated end-to-end skill management and training tracking platform engineered for **JODAYM company**, featuring role-based dashboards and strict secure routing.
-*  *Check out my pinned repositories below to explore more of my architectural solutions, cleaner codebases, and live implementations.*
+### Highlighted Work
+
+* **SkillUp Platform:** An end-to-end skill management and training tracking platform built for **JODAYN Company**, integrating a React.js front-end with a Firebase backend, featuring role-based dashboards and secure routing.
+* Check out my pinned repositories below to explore more of my technical implementations and codebases.
 
 ---
 
-###  Connect & Collaborate
-*  LinkedIn: [https://www.linkedin.com/in/rahaf-s-alshammari-579359252?utm_source=share_via&utm_content=profile&utm_medium=member_ios]
-*  Email: [Rah2fals@gmail.com]
+### Connect
 
-*"Simplicity is the soul of efficiency. I write clean code so humans can read it, and machines can run it seamlessly."* 💻⚡
+* LinkedIn: [https://www.linkedin.com/in/rahaf-s-alshammari-579359252](https://www.linkedin.com/in/rahaf-s-alshammari-579359252)
+* Email: Rah2fals@gmail.com
+
+*Simplicity is the soul of efficiency. I write clean code so humans can read it, and machines can run it seamlessly.*
